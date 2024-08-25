@@ -2,3 +2,4 @@
 # remove one
 # npm install
 1. study docker
+2. typescript
